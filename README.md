@@ -12,7 +12,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Html" src="https://img.shields.io/badge/html-%23FA7343.svg?style=for-the-badge&logo=html&logoColor=white"/>
 <img alt="Css" src="https://img.shields.io/badge/css-%23777BB4.svg?style=for-the-badge&logo=css&logoColor=white"/>
-<img alt="Pyhton" src="https://img.shields.io/badge/pyhton-%23777BB4.svg?style=for-the-badge&logo=pyhton&logoColor=white"/>
+<img alt="Pyhton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 
   **Database Knowledge** <br/><br/> 
