@@ -12,7 +12,7 @@
 <img alt="React" src="https://img.shields.io/badge/react-%230175C2.svg?style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img alt="Html" src="https://img.shields.io/badge/html-%23FA7343.svg?style=for-the-badge&logo=html&logoColor=white"/>
-<img alt="Css" src="https://img.shields.io/badge/css-%23FA7343.svg?style=for-the-badge&logo=css&logoColor=white"/>
+
 
 
   **Database Knowledge** <br/><br/> 
