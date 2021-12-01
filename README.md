@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 
-- 💬  Ask me about anything [here](https://www.linkedin.com/in/ercangarip/)
+- 💬  Ask me about anything [here](https://www.linkedin.com/in/deniz-ey%C3%BCp-inan-5965241a7/)
 
 
 **Working On** <br/><br/>
@@ -28,4 +28,4 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=i-senku&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=denizsinan&show_icons=true&theme=dark" />
