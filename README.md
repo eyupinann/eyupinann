@@ -24,7 +24,7 @@
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 **Social** <br/><br/> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/i-senku?style=social"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FErcanGarip3">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/denizsinan?style=social"> 
 
 
 
