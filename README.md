@@ -11,7 +11,6 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="React" src="https://img.shields.io/badge/react-%230175C2.svg?style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-<img alt="Html" src="https://img.shields.io/badge/html-%23FA7343.svg?style=for-the-badge&logo=html&logoColor=white"/>
 
 
 
