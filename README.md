@@ -27,8 +27,8 @@
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 **Social** <br/><br/> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/denizsinan?style=social"> 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/eyupinann?style=social"> 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=denizsinan&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=eyupinann&show_icons=true&theme=dark" />
