@@ -29,4 +29,5 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/eyupinann?style=social"> 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=eyupinann&show_icons=true&theme=dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=eyupinann&amp;theme=onedark"> 
+
