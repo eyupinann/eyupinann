@@ -31,3 +31,10 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=eyupinann&amp;theme=onedark"> 
 
+
+<a href="https://github.com/eyupinann/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eyupinann&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/eyupinann/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eyupinann&repo=convoychat" />
+</a>
