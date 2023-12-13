@@ -8,13 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupinann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="147" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/377132645429280768/a784731bf54cf2854f787d1a7e2ee43f.webp?size=512"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
