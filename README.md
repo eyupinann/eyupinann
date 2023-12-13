@@ -80,7 +80,6 @@
 <br clear="both">
 
 
-
-  ![Snake animation](https://github.com/eyupinann/eyupinann/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/eyupinann/eyupinann/output/snake.svg" alt="Snake animation" />
 
 ###
