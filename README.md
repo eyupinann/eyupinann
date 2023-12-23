@@ -61,6 +61,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eyupinann&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+###
+
+
+<img src="https://raw.githubusercontent.com/eyupinann/eyupinann/output/snake.svg" alt="Snake animation" />
+
+
 ###
 
 <div align="left">
@@ -74,12 +83,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-
-<img src="https://raw.githubusercontent.com/eyupinann/eyupinann/output/snake.svg" alt="Snake animation" />
 
 ###
