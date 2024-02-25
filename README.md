@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="54" alt="adonisjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="54" alt="express logo"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" height="54" alt="express logo"  />
   <img width="12" />
    <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="54" alt="nestjs logo"  />
   <img width="12" />
