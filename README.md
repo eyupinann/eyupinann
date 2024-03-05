@@ -1,17 +1,18 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 
-As a Full Stack Developer, I took part in the projects of various companies for about 5 years. Firstly
-I have more experience in backend, but I also have a lot of knowledge and experience in frontend and server side. In my free time, I learn about new technologies and the technologies I use.
+As a Full Stack Developer with 5 years of experience, I have contributed to various projects in different companies. While I initially specialized in backend development, I have also gained extensive knowledge and experience in frontend and server-side technologies. In my free time, I enjoy learning about new technologies and expanding my skill set.
 
-Technical Skills
-• Javascript (NodeJS, React, VueJS, React Native)
-• Typescript (TsoaJS, AdonisJS, Vue3, Nest, Next, Express)
-• Php (Laravel, Symfony, Codeigniter)
-• Database (Mysql, Mssql, MongoDB, PostgreSql)
-• Developer Tools (Git, IntelliJ IDEA, VS Code)
-• Redis, Apache Kafka, Socket.IO, Composer, Webpack, NPM, Yarn, Gulp
-• DevOps (Docker, Vagrant)
-• Data Cloud (Snowflake, Google Cloud, AWS)
+#### Technical Skills
+- **JavaScript**: Node.js, React, Vue.js, React Native
+- **TypeScript**: TsoaJS, AdonisJS, Vue 3, NestJS, Next.js, Express
+- **PHP**: Laravel, Symfony, CodeIgniter
+- **Database**: MySQL, MSSQL, MongoDB, PostgreSQL
+- **Developer Tools**: Git, IntelliJ IDEA, VS Code
+- **Other Technologies**: Redis, Apache Kafka, Socket.IO, Composer, Webpack, NPM, Yarn, Gulp
+- **DevOps**: Docker, Vagrant
+- **Data Cloud**: Snowflake, Google Cloud, AWS
+
+Feel free to reach out if you have any questions or want to collaborate on a project!
 
 ###
 
