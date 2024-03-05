@@ -1,5 +1,18 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 
+As a Full Stack Developer, I took part in the projects of various companies for about 5 years. Firstly
+I have more experience in backend, but I also have a lot of knowledge and experience in frontend and server side. In my free time, I learn about new technologies and the technologies I use.
+
+Technical Skills
+• Javascript (NodeJS, React, VueJS, React Native)
+• Typescript (TsoaJS, AdonisJS, Vue3, Nest, Next, Express)
+• Php (Laravel, Symfony, Codeigniter)
+• Database (Mysql, Mssql, MongoDB, PostgreSql)
+• Developer Tools (Git, IntelliJ IDEA, VS Code)
+• Redis, Apache Kafka, Socket.IO, Composer, Webpack, NPM, Yarn, Gulp
+• DevOps (Docker, Vagrant)
+• Data Cloud (Snowflake, Google Cloud, AWS)
+
 ###
 
 <div align="center">
