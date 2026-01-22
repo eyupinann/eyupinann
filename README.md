@@ -18,7 +18,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eyupinann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupinann&locale=en&hide_title=false&layout=compact&langs_count=7&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupinann&locale=en&hide_title=false&layout=compact&langs_count=7&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 
