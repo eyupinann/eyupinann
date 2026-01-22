@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >
 
-As a Full Stack Developer with 5 years of experience, I have contributed to various projects in different companies. While I initially specialized in backend development, I have also gained extensive knowledge and experience in frontend and server-side technologies. In my free time, I enjoy learning about new technologies and expanding my skill set.
+As a Full Stack Developer with 7 years of experience, I have contributed to various projects in different companies. While I initially specialized in backend development, I have also gained extensive knowledge and experience in frontend and server-side technologies. In my free time, I enjoy learning about new technologies and expanding my skill set.
 
 #### Technical Skills
 - **JavaScript**: Node.js, React, Vue.js, React Native
@@ -18,8 +18,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eyupinann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=eyupinann&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="146" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupinann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="147" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupinann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 
